@@ -12,7 +12,7 @@ This project demonstrates a data engineering ETL pipeline from ingesting data fr
 * Step 4: Run ETL process to ingest, transform, and load data to datawarehouse
 * Step 5: Run quality check on data in datawarehouse
 * Step 6: Run analytics on data in datawarehouse
-* Step 5: Addressing Other Scenarios
+* Step 7: Addressing Other Scenarios
 
 ### Scope 
 The scope of the this project is to build an ETL process for US immigration events. Data is gathered, assessed, cleaned, and built into star chema data models stored in data warehouse for data analytics tasks.
